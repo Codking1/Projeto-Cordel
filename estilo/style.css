@@ -81,12 +81,12 @@ color: black;
 
 section#img01 {
     background-image: url('../imagens/bg01.webp');
-    background-position: center center;
+    background-position: unset;
 }
 
 section#img02 {
     background-image: url('../imagens/bg02.jpg');
-    background-position: center center;
+    background-position: unset;
 }
 
 footer {
